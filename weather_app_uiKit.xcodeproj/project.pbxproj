@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E92996452C3E487100346CA3 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92996442C3E487100346CA3 /* LoginViewController.swift */; };
 		E9DAC0EC2C3D4D6200F0C653 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DAC0EB2C3D4D6200F0C653 /* AppDelegate.swift */; };
 		E9DAC0EE2C3D4D6200F0C653 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DAC0ED2C3D4D6200F0C653 /* SceneDelegate.swift */; };
 		E9DAC0F02C3D4D6200F0C653 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DAC0EF2C3D4D6200F0C653 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E92996442C3E487100346CA3 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E9DAC0E82C3D4D6200F0C653 /* weather_app_uiKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = weather_app_uiKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9DAC0EB2C3D4D6200F0C653 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9DAC0ED2C3D4D6200F0C653 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				E9DAC0F42C3D4D6500F0C653 /* Assets.xcassets */,
 				E9DAC0F62C3D4D6500F0C653 /* LaunchScreen.storyboard */,
 				E9DAC0F92C3D4D6500F0C653 /* Info.plist */,
+				E92996442C3E487100346CA3 /* LoginViewController.swift */,
 			);
 			path = weather_app_uiKit;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E92996452C3E487100346CA3 /* LoginViewController.swift in Sources */,
 				E9DAC0F02C3D4D6200F0C653 /* ViewController.swift in Sources */,
 				E9DAC0EC2C3D4D6200F0C653 /* AppDelegate.swift in Sources */,
 				E9DAC0EE2C3D4D6200F0C653 /* SceneDelegate.swift in Sources */,
